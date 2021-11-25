@@ -2,4 +2,4 @@
 ![BeFunky-design (1)](https://user-images.githubusercontent.com/84963363/134276614-10636217-a67a-45a6-bad4-c1eb33af1386.png)
 
 ### Thanks for :
-Universitas Dinamika Bangsa, Alterra, Sandhika Galih, Prawito Hudoro, Eko Kurniawan Khannedy, Dicoding, Codepolitan, Progate, Kementerian Komunikasi dan Informatika, Agung Setiawan, Guntur Budi Herwanto, Ahmad Muhar Dian Lasmita.
+Universitas Dinamika Bangsa, Alterra Academy, Sandhika Galih, Prawito Hudoro, Eko Kurniawan Khannedy, Dicoding, Codepolitan, Progate, Kementerian Komunikasi dan Informatika, Agung Setiawan, Guntur Budi Herwanto, Ahmad Muhar Dian Lasmita.
