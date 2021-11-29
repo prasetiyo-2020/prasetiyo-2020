@@ -1,6 +1,6 @@
-# Hi there, I'm Prasetiyo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
-![BeFunky-design](https://user-images.githubusercontent.com/84963363/143915418-492226a9-e262-4515-ad44-7fb9bb317e8d.jpg)
 
+![BeFunky-design](https://user-images.githubusercontent.com/84963363/143915418-492226a9-e262-4515-ad44-7fb9bb317e8d.jpg)
+# Hi there, I'm Prasetiyo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
 
 ### Thanks for :
 Universitas Dinamika Bangsa, Alterra Academy, Sandhika Galih, Prawito Hudoro, Eko Kurniawan Khannedy, Dicoding, Codepolitan, Progate, Kementerian Komunikasi dan Informatika, Agung Setiawan, Guntur Budi Herwanto, Ahmad Muhar Dian Lasmita.
