@@ -2,8 +2,9 @@
 ![BeFunky-design](https://user-images.githubusercontent.com/84963363/143915418-492226a9-e262-4515-ad44-7fb9bb317e8d.jpg)
 # Hi there, I'm Prasetiyo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
 
-### Thanks for :
-Universitas Dinamika Bangsa, Alterra Academy, Sandhika Galih, Prawito Hudoro, Eko Kurniawan Khannedy, Dicoding, Codepolitan, Progate, Kementerian Komunikasi dan Informatika, Agung Setiawan, Guntur Budi Herwanto, Ahmad Muhar Dian Lasmita.
+### I'm so grateful to :
+God who has given a beautiful life,
+<p>Supportive family, Friends who are always present, Universitas Dinamika Bangsa that has educated me., SIRCLO for giving me the scholarship, KOMINFO giving me the scholarship, Alterra Academy which provides a lot of insight into the world of technology, Sandhika Galih who first introduced me to the world of front-end, Prawito Hudoro, Eko Kurniawan Khannedy, Dicoding, Codepolitan, Progate, Agung Setiawan, Guntur Budi Herwanto, Ahmad Muhar Dian Lasmita.</p>
 
 - 🌱 I’m currently learning **Golang and PostgreSQL**
 
