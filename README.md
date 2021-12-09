@@ -10,7 +10,7 @@ God who has given a beautiful life,
 
 - 👨‍💻 All of my projects are available at [https://prasetiyo-portfolio.herokuapp.com/](https://prasetiyo-portfolio.herokuapp.com/)
 
-- 📝 I regularly write articles on [https://prasetiyo-dbj.blogspot.com/](https://prasetiyo-dbj.blogspot.com/)
+<!-- - 📝 I regularly write articles on [https://prasetiyo-dbj.blogspot.com/](https://prasetiyo-dbj.blogspot.com/) -->
 
 - 📫 How to reach me **prasetiyo2020@yahoo.com**
 
