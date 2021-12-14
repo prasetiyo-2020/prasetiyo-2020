@@ -4,7 +4,7 @@
 
 ### I'm so grateful to :
 God who has given a beautiful life,
-<p>Supportive family, Friends who are always present, Universitas Dinamika Bangsa that has educated me., SIRCLO for giving me the scholarship, KOMINFO giving me the scholarship, Alterra Academy which provides a lot of insight into the world of technology, Sandhika Galih who first introduced me to the world of front-end, Prawito Hudoro, Eko Kurniawan Khannedy, Dicoding, Codepolitan, Progate, Agung Setiawan, Guntur Budi Herwanto Taught me RDBMS MySQL, Ahmad Muhar Dian Lasmita.</p>
+<p>Supportive family, Friends who are always present, Universitas Dinamika Bangsa that has educated me, SIRCLO for giving me the scholarship, KOMINFO gave the scholarship, Alterra Academy which provides a lot of insight into the world of technology, Sandhika Galih who first introduced me to the world of front-end, Prawito Hudoro, Eko Kurniawan Khannedy, Dicoding, Codepolitan, Progate, Agung Setiawan, Guntur Budi Herwanto Taught me RDBMS MySQL, Ahmad Muhar Dian Lasmita.</p>
 
 - 🌱 I’m currently learning **Golang and PostgreSQL**
 
