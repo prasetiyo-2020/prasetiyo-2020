@@ -1,7 +1,7 @@
 
 ![BeFunky-design](https://user-images.githubusercontent.com/84963363/143915418-492226a9-e262-4515-ad44-7fb9bb317e8d.jpg)
 # Hi there, I'm Prasetiyo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
-<!-- 
+
 ### I'm so grateful to :
 God who has given a beautiful life,
 <p>Supportive family, Friends who are always present, Universitas Dinamika Bangsa that has educated me, SIRCLO for giving me the scholarship, KOMINFO gave the scholarship, Alterra Academy which provides a lot of insight into the world of technology, Sandhika Galih who first introduced me to the world of front-end, Prawito Hudoro, Eko Kurniawan Khannedy, Dicoding, Codepolitan, Progate, Agung Setiawan, Guntur Budi Herwanto Taught me RDBMS MySQL, Ahmad Muhar Dian Lasmita.</p>
@@ -13,7 +13,7 @@ God who has given a beautiful life,
 <!-- - 📝 I regularly write articles on [https://prasetiyo-dbj.blogspot.com/](https://prasetiyo-dbj.blogspot.com/) -->
 
 - 📫 How to reach me **prasetiyo2020@yahoo.com**
- -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prasetiyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasetiyo" height="30" width="40" /></a>
