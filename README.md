@@ -2,10 +2,6 @@
 ![BeFunky-design](https://user-images.githubusercontent.com/84963363/143915418-492226a9-e262-4515-ad44-7fb9bb317e8d.jpg)
 # Hi there, I'm Prasetiyo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
 
-### I'm so grateful to :
-God who has given a beautiful life,
-<p>Supportive family, Friends who are always present, Universitas Dinamika Bangsa that has educated me, SIRCLO for giving me the scholarship, KOMINFO gave the scholarship, Alterra Academy which provides a lot of insight into the world of technology, Sandhika Galih who first introduced me to the world of front-end, Prawito Hudoro, Eko Kurniawan Khannedy, Dicoding, Codepolitan, Progate, Agung Setiawan, Guntur Budi Herwanto Taught me RDBMS MySQL, Ahmad Muhar Dian Lasmita.</p>
-
 - 🌱 I’m currently learning **Golang and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://prasetiyo-portfolio.herokuapp.com/](https://prasetiyo-portfolio.herokuapp.com/)
